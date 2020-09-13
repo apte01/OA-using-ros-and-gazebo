@@ -16,7 +16,7 @@ Clone the repository:
 
 ### Result
 ![video](/video.mp4)
-![image](/image.png)
+![image](OA-using-ros-and-gazebo/image.png)
 
 ### Future scope
 Currently the bot is just avoiding obstacles .So the next goal is to make the robot reach a particular destination along with avoiding the obstacles simultaneously.
