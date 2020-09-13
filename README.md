@@ -15,7 +15,7 @@ Clone the repository:
 `git clone https://github.com/apte01/OA-using-ros-and-gazebo`
 
 ### Result
-![video](/video.mp4)
+
 ![image](OA-using-ros-and-gazebo/image.png)
 
 ### Future scope
