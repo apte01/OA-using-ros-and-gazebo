@@ -18,6 +18,11 @@ Clone the repository:
 
 ![image](OA-using-ros-and-gazebo/bot.png)
 
+### Usage
+To try this out you can run the obstacle_avoidance.py script after cloning the repository
+`./obstacle_avoidance.py`
+
+
 ### Future scope
 Currently the bot is just avoiding obstacles .So the next goal is to make the robot reach a particular destination along with avoiding the obstacles simultaneously.
 
