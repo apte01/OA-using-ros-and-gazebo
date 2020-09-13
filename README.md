@@ -14,7 +14,7 @@ The aim of the project is to simulate a 2 wheel differential drive robot to sens
 Clone the repository:
 `git clone https://github.com/apte01/OA-using-ros-and-gazebo`
 
-### Result
+### Model of the differential robot with sensor
 
 ![image](OA-using-ros-and-gazebo/bot.png)
 
